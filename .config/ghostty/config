@@ -37,3 +37,4 @@ keybind = super+shift+minus=new_split:down
 keybind = super+u=scroll_page_up
 keybind = super+d=scroll_page_down
 
+keybind = shift+enter=text:\x1b\r
